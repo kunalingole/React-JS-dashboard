@@ -1,0 +1,10 @@
+.DS_Store
+
+
+# IDE Files
+#-------------------------
+/nbproject/
+.idea/*
+
+## Sublime Text cache files
+*node_modules/*
